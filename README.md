@@ -1,4 +1,4 @@
-# todo-list
+# Vue Gameficated Todo List
 
 ## Project setup
 ```
